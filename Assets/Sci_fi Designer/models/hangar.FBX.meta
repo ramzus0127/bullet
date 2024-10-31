@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: c5c03c6dfa8bf8042b581cfcdd311f04
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: crane01
+    100002: crane02
+    100004: crane03
+    100006: crane04
+    100008: dia
+    100010: //RootNode
+    100012: hangar_base
+    100014: light01
+    100016: light02
+    100018: light03
+    100020: light04
+    100022: light05
+    100024: light06
+    100026: machine_a
+    100028: machine_b
+    100030: Object169
+    100032: top_crane
+    100034: Group001
+    100036: Object
+    100038: Object171
+    100040: Object173
+    100042: Object175
+    100044: light_out
+    100046: out light
+    400000: crane01
+    400002: crane02
+    400004: crane03
+    400006: crane04
+    400008: dia
+    400010: //RootNode
+    400012: hangar_base
+    400014: light01
+    400016: light02
+    400018: light03
+    400020: light04
+    400022: light05
+    400024: light06
+    400026: machine_a
+    400028: machine_b
+    400030: Object169
+    400032: top_crane
+    400034: Group001
+    400036: Object
+    400038: Object171
+    400040: Object173
+    400042: Object175
+    400044: light_out
+    400046: out light
+    2300000: crane01
+    2300002: crane02
+    2300004: crane03
+    2300006: crane04
+    2300008: dia
+    2300010: hangar_base
+    2300012: light01
+    2300014: light02
+    2300016: light03
+    2300018: light04
+    2300020: light05
+    2300022: light06
+    2300024: machine_a
+    2300026: machine_b
+    2300028: top_crane
+    2300030: Object
+    2300032: Object171
+    2300034: Object173
+    2300036: Object175
+    2300038: out light
+    3300000: crane01
+    3300002: crane02
+    3300004: crane03
+    3300006: crane04
+    3300008: dia
+    3300010: hangar_base
+    3300012: light01
+    3300014: light02
+    3300016: light03
+    3300018: light04
+    3300020: light05
+    3300022: light06
+    3300024: machine_a
+    3300026: machine_b
+    3300028: top_crane
+    3300030: Object
+    3300032: Object171
+    3300034: Object173
+    3300036: Object175
+    3300038: out light
+    4300000: dia
+    4300002: machine_a
+    4300004: crane01
+    4300006: top_crane
+    4300008: hangar_base
+    4300010: crane02
+    4300012: crane03
+    4300014: crane04
+    4300016: machine_b
+    4300018: light05
+    4300020: light06
+    4300022: light04
+    4300024: light03
+    4300026: light02
+    4300028: light01
+    4300030: Object
+    4300032: Object171
+    4300034: Object173
+    4300036: Object175
+    4300038: out light
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

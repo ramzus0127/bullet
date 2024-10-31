@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 5854f7494ed3f6f4e9555d70e988f842
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: armor_frame
+    100002: armor_frame002
+    100004: armor_frame003
+    100006: Box042
+    100008: Box043
+    100010: Box044
+    100012: Box045
+    100014: Box046
+    100016: Box047
+    100018: Box048
+    100020: Box049
+    100022: Box050
+    100024: //RootNode
+    100026: frame003
+    100028: hangar main wall
+    100030: Line005
+    100032: Line010
+    100034: module_pc
+    100036: Object004
+    100038: Object019
+    100040: Object025
+    100042: Object026
+    100044: Object038
+    100046: Object041
+    400000: armor_frame
+    400002: armor_frame002
+    400004: armor_frame003
+    400006: Box042
+    400008: Box043
+    400010: Box044
+    400012: Box045
+    400014: Box046
+    400016: Box047
+    400018: Box048
+    400020: Box049
+    400022: Box050
+    400024: //RootNode
+    400026: frame003
+    400028: hangar main wall
+    400030: Line005
+    400032: Line010
+    400034: module_pc
+    400036: Object004
+    400038: Object019
+    400040: Object025
+    400042: Object026
+    400044: Object038
+    400046: Object041
+    2300000: armor_frame
+    2300002: armor_frame002
+    2300004: armor_frame003
+    2300006: Box042
+    2300008: Box043
+    2300010: Box044
+    2300012: Box045
+    2300014: Box046
+    2300016: Box047
+    2300018: Box048
+    2300020: Box049
+    2300022: Box050
+    2300024: frame003
+    2300026: hangar main wall
+    2300028: Line005
+    2300030: Line010
+    2300032: module_pc
+    2300034: Object004
+    2300036: Object019
+    2300038: Object025
+    2300040: Object026
+    2300042: Object038
+    2300044: Object041
+    3300000: armor_frame
+    3300002: armor_frame002
+    3300004: armor_frame003
+    3300006: Box042
+    3300008: Box043
+    3300010: Box044
+    3300012: Box045
+    3300014: Box046
+    3300016: Box047
+    3300018: Box048
+    3300020: Box049
+    3300022: Box050
+    3300024: frame003
+    3300026: hangar main wall
+    3300028: Line005
+    3300030: Line010
+    3300032: module_pc
+    3300034: Object004
+    3300036: Object019
+    3300038: Object025
+    3300040: Object026
+    3300042: Object038
+    3300044: Object041
+    4300000: Object004
+    4300002: armor_frame
+    4300004: Object038
+    4300006: Object019
+    4300008: armor_frame002
+    4300010: module_pc
+    4300012: Object025
+    4300014: Object026
+    4300016: frame003
+    4300018: armor_frame003
+    4300020: Box042
+    4300022: hangar main wall
+    4300024: Object041
+    4300026: Line005
+    4300028: Box043
+    4300030: Box044
+    4300032: Box045
+    4300034: Box046
+    4300036: Box047
+    4300038: Box048
+    4300040: Box049
+    4300042: Box050
+    4300044: Line010
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

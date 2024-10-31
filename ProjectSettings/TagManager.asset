@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hide
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - MostBackUI
+  - MostBack3DUI
+  - MostBackUI2
+  - BackUI
+  - Back3DUI
+  - BackUI2
+  - MiddleUI
+  - Middle3DUI
+  - MiddleUI2
+  - FrontUI
+  - Front3DUI
+  - FrontUI2
+  - MostFrontUI
+  - MostFront3DUI
+  - MostFrontUI2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

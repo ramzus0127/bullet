@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca75451bad21c4d41b253e0240e43359, type: 3}
+  m_Name: CurveAsset 0.2sec
+  m_EditorClassIdentifier: 
+  _AniCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 22.195444
+      outSlope: 22.195444
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.08703433
+    - serializedVersion: 3
+      time: 0.051150396
+      value: 0.37026152
+      inSlope: 0.25969625
+      outSlope: 0.25969625
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.17332177
+      outWeight: 0.092696965
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 2.3995066
+      outSlope: 2.3995066
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.42847264
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
